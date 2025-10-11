@@ -9,3 +9,5 @@ This is awesome project.
 [Author](https://github.com/minixips)
 
 ## Some new section here
+
+## Conflict
